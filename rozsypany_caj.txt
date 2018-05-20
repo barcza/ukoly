@@ -1,0 +1,1915 @@
+
+  日本語の表記体系
+
+出典: フリー百科事典『ウィキペディア（Wikipedia）』
+移動先: 案内 <#mw-head>、 検索 <#p-search>
+	
+*出典
+<https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B9%E3%82%BF%E3%82%A4%E3
+%83%AB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_(%E3%83%AC%E3%82%A4
+%E3%82%A2%E3%82%A6%E3%83%88)#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE>は列挙
+するだけでなく、脚注 <https://ja.wikipedia.org/wiki/Help:%E8%84%9A%E6%B3
+%A8>などを用いてどの記述の情報源であるかを明記
+<https://ja.wikipedia.org/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6
+%98%8E%E8%A8%98%E3%81%99%E3%82%8B#%E5%87%BA%E5%85%B8%E3%81%AE%E7%A4%BA
+%E3%81%97%E6%96%B9>してください。*記事の信頼性向上
+<https://ja.wikipedia.org/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8
+%83%BD%E6%80%A7>にご協力をお願いいたします。（2010年2月）
+
+日本語の表記体系
+Heibon-pp.10-11.jpg
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Heibon-pp.10-11.jpg>
+
+漢字仮名交じり文で書かれた小説
+<https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%AA%AC>。漢字
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>には振り仮名
+<https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93>が振られている。1908年
+<https://ja.wikipedia.org/wiki/1908%E5%B9%B4>。
+類型: 	表語文字
+<https://ja.wikipedia.org/wiki/%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97>（漢
+字 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>）と音節文字
+<https://ja.wikipedia.org/wiki/%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD%97>（平
+仮名 <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D>と片仮名
+<https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90%8D>）の併用
+言語: 	日本語 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E>
+時期: 	4世紀 <https://ja.wikipedia.org/wiki/4%E4%B8%96%E7%B4%80>-現在
+親の文字体系: 	
+漢字 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97> - 万葉仮名
+<https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E4%BB%AE%E5%90%8D>
+
+  * 日本語の表記体系
+
+Unicode範囲 <https://ja.wikipedia.org/wiki/Unicode>: 	漢字
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>の範囲（漢字）
+U+3040–U+309F <http://www.unicode.org/charts/PDF/U3040.pdf>（平仮名）
+U+30A0–U+30FF <http://www.unicode.org/charts/PDF/U30A0.pdf>（片仮名）
+ISO 15924 コード <https://ja.wikipedia.org/wiki/ISO_15924>: 	Jpan
+*注意*: このページはUnicode <https://ja.wikipedia.org/wiki/Unicode>で書
+かれた国際音声記号
+<https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%9F%B3%E5%A3%B0%E8%A8%98%E5%8F%B7>
+(IPA) を含む場合があります。
+
+*日本語の表記体系*（にほんごのひょうきたいけい）では、日本語
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E>の文章
+<https://ja.wikipedia.org/wiki/%E6%96%87%E7%AB%A0>等を文字
+<https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%97>によって表記するための
+系統的な方法について解説する。本項目では現代日本語
+<https://ja.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E8
+%AA%9E>の表記体系
+<https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%97#%E6%96%87%E5%AD%97%E4
+%BD%93%E7%B3%BB%E3%81%A8%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>とその歴史
+<https://ja.wikipedia.org/wiki/%E6%AD%B4%E5%8F%B2>を扱っている。日本語の
+概略に関しては日本語
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E>を参照。
+
+
+目次
+
+ [非表示] 
+
+  * 1 概要 <#概要>
+  * 2 文字種の使い分け <#文字種の使い分け>
+      o 2.1 漢字が使われる事例 <#漢字が使われる事例>
+      o 2.2 ひらがなが使われる事例 <#ひらがなが使われる事例>
+      o 2.3 カタカナが使われる事例 <#カタカナが使われる事例>
+      o 2.4 ローマ字が使われる事例 <#ローマ字が使われる事例>
+      o 2.5 例外 <#例外>
+      o 2.6 文字種の意図的な選択 <#文字種の意図的な選択>
+  * 3 表記する方向 <#表記する方向>
+  * 4 初期の日本語表記系 <#初期の日本語表記系>
+      o 4.1 借字と漢字文 <#借字と漢字文>
+      o 4.2 漢字かな交じり文の成立 <#漢字かな交じり文の成立>
+      o 4.3 音読みと訓読み <#音読みと訓読み>
+      o 4.4 日本語としての漢語 <#日本語としての漢語>
+      o 4.5 漢字かな交じり文の意義 <#漢字かな交じり文の意義>
+  * 5 日本語表記法の変化 <#日本語表記法の変化>
+      o 5.1 明治時代 <#明治時代>
+      o 5.2 第二次世界大戦前 <#第二次世界大戦前>
+      o 5.3 第二次世界大戦後 <#第二次世界大戦後>
+  * 6 ニュアンスを伝える日本語表記系 <#ニュアンスを伝える日本語表記系>
+  * 7 ローマ字転写 <#ローマ字転写>
+  * 8 参考文献 <#参考文献>
+  * 9 関連項目 <#関連項目>
+      o 9.1 文字の書体 <#文字の書体>
+      o 9.2 仮名の異体 <#仮名の異体>
+  * 10 外部リンク <#外部リンク>
+
+
+    概要[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=1>]
+
+現代の日本語では、主に以下の3種類の文字体系
+<https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%97%E4%BD%93%E7%B3%BB>が用
+いられる。
+
+漢字 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97> 	中国
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD>を起源
+<https://ja.wikipedia.org/wiki/%E8%B5%B7%E6%BA%90>とする表語文字
+<https://ja.wikipedia.org/wiki/%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97>であ
+る。国字 <https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AD%97>と呼ばれる日
+本 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC>で造られた漢字も追
+加されている。
+平仮名 <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D>（ひら
+がな） 	漢字の草書体
+<https://ja.wikipedia.org/wiki/%E8%8D%89%E6%9B%B8%E4%BD%93>より日本で作
+られた表音文字
+<https://ja.wikipedia.org/wiki/%E8%A1%A8%E9%9F%B3%E6%96%87%E5%AD%97>（音
+節文字 <https://ja.wikipedia.org/wiki/%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD
+%97>）である。
+片仮名 <https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90%8D>（カタ
+カナ） 	漢字の一部を省略表記して日本で作られた表音文字（音節文字）である。
+
+これらの文字 <https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%97>を併用し
+て表記された文章が*仮名交
+<https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4>*（かなまじ
+り）または*仮名交文
+<https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4%E6%96%87>*
+（かなまじりぶん）と呼ばれる、現在の日本での標準的な文章である。これは、
+「それまで公式とされた*漢文
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%87>*に、*仮名
+<https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)>*
+が*交*じっている」という意味だが、漢字とかなの併用が標準となった現代では
+かえって読みにくく、また意味が掴みにくい。そのため、送り仮名をつけた「仮
+名交じり文
+<https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D%E4%BA%A4%E3%81%98%E3
+%82%8A%E6%96%87>」や更に漢字との併用であることを明記した「*漢字仮名交じ
+り文*」といった表現で示される場合がある。
+
+ローマ <https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E>由来の
+アルファベット
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3
+%83%99%E3%83%83%E3%83%88>（ラテン文字
+<https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5
+%AD%97>）を用いて日本語を表記することもでき、日本では*ローマ字
+<https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97>*と
+呼ばれる。個々のラテン文字
+<https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5
+%AD%97>を、イニシャル
+<https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3
+%83%AB>や略号として、漢字・かなと併用して記すことは普通に行われている
+が、母語 <https://ja.wikipedia.org/wiki/%E6%AF%8D%E8%AA%9E>話者が文章全
+体をローマ字で記すことは稀である。
+
+一例として朝日新聞
+<https://ja.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E>の
+ニュース記事（2004年 <https://ja.wikipedia.org/wiki/2004%E5%B9%B4>4月19
+日 <https://ja.wikipedia.org/wiki/4%E6%9C%8819%E6%97%A5>）の見出しを次に
+示す。ここでは上記4種類の文字システムがすべて用いられている。漢字は*太字
+オレンジ*、ひらがなは青、カタカナは緑、ローマ字とアラビア数字は下線灰色
+で示す：
+
+    ラドクリフ、マラソン*五輪代表*に1*万*m*出場*にも*含*み
+
+日本語で書かれた単語の例を以下にいくつか示す：
+
+	文字 	ローマ字転写
+ヘボン式
+漢字 	ひらがな 	カタカナ
+語種 	大和言葉
+<https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E8%A8%80%E8%91%89>
+私 	わたし 	ワタシ 	watashi
+漢語 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E> 	金魚 	きん
+ぎょ 	キンギョ 	kingyo
+外来語 <https://ja.wikipedia.org/wiki/%E5%A4%96%E6%9D%A5%E8%AA%9E> 	煙
+草 	たばこ 	タバコ 	tabako
+
+日本語辞典（いわゆる国語辞典
+<https://ja.wikipedia.org/wiki/%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8>）で
+の単語の配列法は第一に漢字ではなく、表音文字
+<https://ja.wikipedia.org/wiki/%E8%A1%A8%E9%9F%B3%E6%96%87%E5%AD%97>であ
+る仮名を基盤とする。ローマ字で書かれる単語も例外ではなく、その場合見出し
+は片仮名 <https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90%8D>によ
+る。仮名の配列には「五十音順
+<https://ja.wikipedia.org/wiki/%E4%BA%94%E5%8D%81%E9%9F%B3%E9%A0%86>」と
+「いろは順
+<https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%AF%E9%A0%86>」の
+2種類がある。後者は古式でありこれに従う辞典はかつて存在した
+<https://ja.wikipedia.org/wiki/%E7%AF%80%E7%94%A8%E9%9B%86>が、現在では
+もはや存在しない。ここで同音異義語
+<https://ja.wikipedia.org/wiki/%E5%90%8C%E9%9F%B3%E7%95%B0%E7%BE%A9%E8
+%AA%9E>である漢語 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E>の配
+列が問題になる。この点、漢字
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>は総画数、部首
+<https://ja.wikipedia.org/wiki/%E9%83%A8%E9%A6%96>によって配列されている。
+
+他方、漢和辞典
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%92%8C%E8%BE%9E%E5%85%B8>では
+漢字は部首 <https://ja.wikipedia.org/wiki/%E9%83%A8%E9%A6%96>、画数
+<https://ja.wikipedia.org/wiki/%E7%94%BB%E6%95%B0>の順に配列されており、
+漢字ごとにその字で始まる漢語が、漢字を見出しとして、その読み方の五十音順
+に配列されている。詳しくは該当項目を参照。
+
+
+    文字種の使い分け[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=2>]
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_hiragana.svg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_hiragana.svg>
+ひらがな表
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_katakana.svg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Table_katakana.svg>
+カタカナ表
+
+大部分の日本語文は漢字とひらがなで書かれ、一部にカタカナが混在して使用さ
+れる。
+
+
+      漢字が使われる事例[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=3>]
+
+詳細は「漢字 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>」、「和
+製漢字 <https://ja.wikipedia.org/wiki/%E5%92%8C%E8%A3%BD%E6%BC%A2%E5%AD
+%97>」、および「日本における漢字
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3
+%81%91%E3%82%8B%E6%BC%A2%E5%AD%97>」を参照
+
+  * 名詞 <https://ja.wikipedia.org/wiki/%E5%90%8D%E8%A9%9E>
+  * 形容詞 <https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%AE%B9%E8%A9%9E>と
+    動詞 <https://ja.wikipedia.org/wiki/%E5%8B%95%E8%A9%9E>の語幹
+  * 日本 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC>の人名
+    <https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D>
+
+等である。
+
+
+      ひらがなが使われる事例[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=4>]
+
+詳細は「平仮名 <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90
+%8D>」を参照
+
+  * 形容詞 <https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%AE%B9%E8%A9%9E>と
+    動詞 <https://ja.wikipedia.org/wiki/%E5%8B%95%E8%A9%9E>の活用
+    <https://ja.wikipedia.org/wiki/%E6%B4%BB%E7%94%A8>語尾（送り仮名）
+  * 助詞 <https://ja.wikipedia.org/wiki/%E5%8A%A9%E8%A9%9E>
+  * 漢字を持たない、あるいは漢字では読みづらい日本語の単語
+  * 漢字の読み方の指示（振り仮名）
+
+等である。
+
+
+      カタカナが使われる事例[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=5>]
+
+詳細は「片仮名 <https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90
+%8D>」を参照
+
+  * 外国の単語、名前
+  * 擬音語 <https://ja.wikipedia.org/wiki/%E6%93%AC%E9%9F%B3%E8%AA%9E>
+  * 強調。英語ではイタリック体で書くような場面
+  * 技術、科学用語（生物の名前。「ヒト」、「ネコ」等）
+
+等である。生物名のカタカナ表記の起源については和名
+<https://ja.wikipedia.org/wiki/%E5%92%8C%E5%90%8D>を参照。
+
+
+      ローマ字が使われる事例[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=6>]
+
+詳細は「ローマ字
+<https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97>」、
+「アルファベット
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3
+%83%99%E3%83%83%E3%83%88>」、および「外来語
+<https://ja.wikipedia.org/wiki/%E5%A4%96%E6%9D%A5%E8%AA%9E>」を参照
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:SeimiKaisouChemistry.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:SeimiKaisouChemistry.jpg>
+宇田川榕菴
+<https://ja.wikipedia.org/wiki/%E5%AE%87%E7%94%B0%E5%B7%9D%E6%A6%95%E8
+%8F%B4>が著した「舎密開宗」の化学実験図。日本語の文章に、「S
+<https://ja.wikipedia.org/wiki/S>字様管」とアルファベット
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3
+%83%99%E3%83%83%E3%83%88>が混ざっている。
+
+  * アクロニム
+    <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%8B
+    %E3%83%A0>、イニシャル
+    <https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3
+    %E3%83%AB>。例えばNATO（「北大西洋条約機構
+    <https://ja.wikipedia.org/wiki/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%9D%A1%E7%B4%84%E6%A9%9F%E6%A7%8B>
+    North Atlantic Treaty Organisation」のアクロニム）など。
+  * 日本国外で通用するように意図した場合。例えば名刺やパスポートの名前など。
+  * 会社名、ブランド名、製品名等。日本国内外問わず用いられる。
+  * 日本語の文脈中にいきなり外国の単語やフレーズを挿入する場合。日本人向
+    け民生品の宣伝など。
+
+等である。ローマ字で日本語の単語を表記する例はない。あるように見えるのは
+転写
+<https://ja.wikipedia.org/wiki/%E8%BB%A2%E5%86%99_(%E8%A8%80%E8%AA%9E%E5
+%AD%A6)>にすぎない。
+
+
+      例外[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=7>]
+
+上記の規則には多くの例外がある。例えば日本人
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA>の名前には漢
+字、ひらがな、カタカナの全てが用いられることがある。姓についても、大和民
+族 <https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E6%B0%91%E6%97%8F>
+の姓は漢字がほとんどであるが、「一ノ瀬」などのように一部カタカナが含まれ
+る姓もある。帰化 <https://ja.wikipedia.org/wiki/%E5%B8%B0%E5%8C%96>した
+外国人などは、姓の全てがカタカナ表記ということもある。
+
+加えて、横書きの文書ではアラビア数字
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6
+%95%B0%E5%AD%97>が普通は用いられる。ラテン文字はアクロニムや国際単位系の
+単位等に用いられる。
+
+
+      文字種の意図的な選択[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=8>]
+
+ひらがな、カタカナのいずれでも、全ての日本語の単語を表記することができ
+る。ローマ字でも"書く"ことは客観的に可能であるが、あくまでも音写でしかな
+い。また、ほとんどの単語には漢字表記がある。どの文字種を用いるかは文体・
+文脈・個人の好みなど多くの要因によって決まる。つまり音声的に同一の語句・
+文に対して多くの表記があるので、日本語には欧米の言語のような厳密な正書法
+<https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%9B%B8%E6%B3%95>は存在しない。
+
+漢字表記によって異なる意味を表す場合もある（「熱い」「厚い」、「好み」
+「木の実」等）。場合によっては漢字の書き分けが難しく、「誤記するよりま
+し」という事でひらがなで表記する人もいる。
+
+
+    表記する方向[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=9>]
+
+詳細は「縦書きと横書き
+<https://ja.wikipedia.org/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6
+%A8%AA%E6%9B%B8%E3%81%8D>」を参照
+
+伝統的には日本語は「縦書き」で書かれた。文書は縦行に分かれ、各縦行は上か
+ら下に、縦行の間では右から左に書かれる。ある縦行の最下部まで読み進んだ
+ら、次は左隣の縦行の最上部に移動することになる。これは中国
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD>の文と同じ順序である。
+
+現代の日本語は他の方法も採用している。「横書き」といわれるもので、英語
+<https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%AA%9E>などのヨーロッパ諸語と
+同一の方法である。左から右に書かれた横向きの行が上から下に並んでいる。
+
+
+    初期の日本語表記系[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=10>]
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihonshoki_tanaka_version.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihonshoki_tanaka_version.jpg>
+『日本書紀
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80>』　
+平安時代
+<https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3>の写
+本。その構文や表記のありかたは、中国の古典文である「漢文」に則っている。
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hell_Scroll_Nara_Measures.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hell_Scroll_Nara_Measures.jpg>
+地獄草紙
+<https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E8%8D%89%E7%B4%99>　平
+安時代 <https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB
+%A3>末に成立したと見られる絵巻物
+<https://ja.wikipedia.org/wiki/%E7%B5%B5%E5%B7%BB%E7%89%A9>。現代と余り
+変わらない字体の、漢字と仮名で書かれている。
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:KarakuriZuiHosokawaHanzo1796.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:KarakuriZuiHosokawaHanzo1796.jpg>
+『機巧図彙』　寛政 <https://ja.wikipedia.org/wiki/%E5%AF%9B%E6%94%BF>9年
+（1796年 <https://ja.wikipedia.org/wiki/1796%E5%B9%B4>）に刊行された和時
+計 <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%99%82%E8%A8%88>やからくり
+<https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A>につ
+いての図入り解説書。その文章は行書体の漢字にかなを交じえて記されている。
+
+現在の日本語表記の源流は、中国
+<https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD>の古典文語である漢文
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%87>の書き方が伝えられた4
+世紀 <https://ja.wikipedia.org/wiki/4%E4%B8%96%E7%B4%80>あたりにまで遡
+る。ただし漢字が伝わる以前に、神代文字
+<https://ja.wikipedia.org/wiki/%E7%A5%9E%E4%BB%A3%E6%96%87%E5%AD%97>と称
+する更に古い表記法があったともいわれている。それらは絵文字の様だったり、
+ルーン文字
+<https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E6%96%87%E5
+%AD%97>に似ていたり、ハングル
+<https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB>に酷
+似していたりする。これらの内で真正なものと結論づけられたものは一つもな
+く、漢字の伝来以前に日本に文字があった証拠は存在しない。たとえそのような
+ものがあったとしても、書記のための文字として体系づけられる前に、漢字の導
+入により霧散したものと見られる。
+
+中国から伝わった漢字を前にして、日本人はとりあえず、個々の漢字の意味を日
+本語に当てはめた。たとえば「山」、「川」、「村」、「人」、「森」、「酒」
+などを意味する日本語として「やま」、「かは」、「むら」、「ひと」、「も
+り」、「さけ」という言葉を当てはめていった。和語
+<https://ja.wikipedia.org/wiki/%E5%92%8C%E8%AA%9E>に相当する意味を持つ漢
+字がない場合には、独自に漢字を創造している。峠（とうげ）、辻（つじ）、柊
+（ひいらぎ）、鰯（いわし）などで、これを国字
+<https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%AD%97>という。その国独自の漢
+字は、中国文化の影響を受けた朝鮮半島
+<https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6>やベ
+トナム <https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83
+%A0>でも作られた。文化
+<https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96_(%E5%85%83%E5%8F
+%B7)>15年（1818年 <https://ja.wikipedia.org/wiki/1818%E5%B9%B4>）以前に
+成立していた『国字考』（伴直方著）には、日本で作られた国字125字が収録さ
+れている。
+
+
+      借字と漢字文[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=11>]
+
+しかし日本語の固有名詞
+<https://ja.wikipedia.org/wiki/%E5%9B%BA%E6%9C%89%E5%90%8D%E8%A9%9E>を発
+音通りに書き記す場合には、漢字をそのまま使っても書き表すことが出来ない。
+そのために使われたのが借字
+<https://ja.wikipedia.org/wiki/%E5%80%9F%E5%AD%97>（しゃくじ）である。こ
+れは漢字を表意文字ではなく表音文字として（中国音から音を得て）用いる。こ
+の借字は4500首あまりの和歌
+<https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C>を収めた『万葉集
+<https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E9%9B%86>』にも使われ
+る表記なので「万葉仮名」とも呼ばれるが、べつに『万葉集』に限った表記法と
+いうわけではない。この借字の字体を草書
+<https://ja.wikipedia.org/wiki/%E8%8D%89%E6%9B%B8>よりも崩したものから平
+仮名が、また漢籍や経典の読み下しを助けるために横に付した符号のうち、発音
+記号として使った借字から片仮名が誕生した。
+
+やがて文章の構文も中国語に沿った「漢文」のものではなく、日本語の構文に
+沿って語を並べた文章が綴られるようになった。『古事記
+<https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98>』の本文は漢
+字だけで記されているが「漢文」ではない「漢字文」である。借字による和語の
+文を交え、日本語の語順に従って記されている部分があるからである。またその
+本文冒頭には、
+
+    天地初発之時…
+
+とあり、「あめつちはじめてひらけしとき…」とふつうには訓読されている部分
+であるが、「初」は「はじめて」でも「はじめに」でもどちらにも読める。実際
+にどう発音して読んだかというより、要はその文字を追っていけば内容を理解で
+きるという文である。
+
+
+      漢字かな交じり文の成立[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=12>]
+
+文章を綴るための文字としての仮名（平仮名）の出現は、都が平城京
+<https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%9F%8E%E4%BA%AC>から平安京
+<https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E4%BA%AC>に移って以
+後、すなわち平安時代
+<https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3>に
+入ってからのことである。漢字に仮名を交えて書く「漢字かな交じり文」は、そ
+の当時すでに始まっている。当時の仮名の文も和語だけで記されていたわけでは
+なく漢語 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E>も交えてお
+り、それはたいていの場合漢字で記すよう慣習づけられていたからである。また
+和語であっても文章を読み取りやすくするため、今のように漢字を当てて記すこ
+ともされていた。ただし和歌は漢語を使わずに詠み、また仮名だけで書くよう慣
+習づけられていた。その後、訓読文の影響も受けながら「漢字かな交じり文」は
+発達してゆく。
+
+『伊勢物語
+<https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E7%89%A9%E8%AA%9E>』、
+『源氏物語
+<https://ja.wikipedia.org/wiki/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E>』、
+『今昔物語
+<https://ja.wikipedia.org/wiki/%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E>』、
+『平家物語
+<https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E>』、
+『方丈記 <https://ja.wikipedia.org/wiki/%E6%96%B9%E4%B8%88%E8%A8%98>』、
+『徒然草 <https://ja.wikipedia.org/wiki/%E5%BE%92%E7%84%B6%E8%8D%89>』、
+『奥の細道
+<https://ja.wikipedia.org/wiki/%E5%A5%A5%E3%81%AE%E7%B4%B0%E9%81%93>』、
+『雨月物語
+<https://ja.wikipedia.org/wiki/%E9%9B%A8%E6%9C%88%E7%89%A9%E8%AA%9E>』な
+ど、日本古典文学の重要な作品は全て「漢字かな交じり文」で書かれており、現
+在まで1100年以上に渡って日本語の標準的な書き言葉となっている。
+
+
+      音読みと訓読み[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=13>]
+
+一つの漢字には、複数の「音読み」（漢字音
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E9%9F%B3>）と「訓読
+み」（和訓 <https://ja.wikipedia.org/wiki/%E5%92%8C%E8%A8%93>）があるこ
+とが多い。まず音読みについては、日本に様々な時代の、様々な地域の中国語の
+発音が並行して伝えられたことにより、一つの漢字に複数の音読みが行われるこ
+とになった。呉音 <https://ja.wikipedia.org/wiki/%E5%91%89%E9%9F%B3>、漢
+音 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E9%9F%B3>、唐音
+<https://ja.wikipedia.org/wiki/%E5%94%90%E9%9F%B3>といったものである。こ
+うした現象は、特定の時代の特定の地域では通常一つの発音しか認めてこなかっ
+た中国や朝鮮半島
+<https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6>な
+ど、他の漢字を受容した地域では、ほとんど観察されない。例えば「行」は二字
+熟語の「行列」では「ぎょう」であり、「銀行」では「こう」、「行灯」では
+「あん」である。一つの漢字「行」に「ぎょう」、「こう」、「あん」の三通り
+の音読みがあるのはそれぞれ「呉音」「漢音」「唐音」に対応している。
+
+訓読みでは「山」や「人」のように、「やま」「ひと」というほぼ一種類の訓読
+みが伝わっているものもあるが、「行」は「ゆく」（または「いく」）ともまた
+「おこなう」とも読み、「主」という漢字では「おも」、「ぬし」、「あるじ」
+といった複数の訓読みが当てられているといった例があげられる。一つの漢字の
+持つ意味の広がりが複数の和語の概念にまたがっていることにより、複数の読み
+かたが生じた。逆に「取る」・「採る」・「捕る」などのように、一つの和語に
+複数の漢字が割り当てられる場合もある。
+
+
+      日本語としての漢語[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=14>]
+
+日本語には語源を異にした多くの同義語
+<https://ja.wikipedia.org/wiki/%E5%90%8C%E7%BE%A9%E8%AA%9E>がある。中国
+起源のものと日本起源のものとである。また、中国起源の単語はより厳密さが求
+められる説明的な文脈で用いられる傾向があり、これはヨーロッパ言語を用いる
+国や地域の人々がラテン語
+<https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E8%AA%9E>由来
+の単語をしばしば上流の証として用いるのと似ている。 近代では日本人が漢語
+を造語する例もあり、英語のphilosophy、ドイツ語のPhilosophieを指す用語と
+して、明治時代の啓蒙家西周
+<https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%91%A8_(%E5%95%93%E8%92%99%E5
+%AE%B6)>が、「哲学 <https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6>」
+と造語している。これらは和製漢語
+<https://ja.wikipedia.org/wiki/%E5%92%8C%E8%A3%BD%E6%BC%A2%E8%AA%9E>と呼
+ばれるもので、現在では漢語の本家である中国語圏に逆輸入されている例も多い。
+
+
+      漢字かな交じり文の意義[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=15>]
+
+古い時代の日本に中国大陸より漢字と漢文が伝わり、その漢文を日本語として理
+解するために漢文訓読
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%87%E8%A8%93%E8%AA%AD>とい
+う方法が講じられた。現在の漢字かな交じり文はこの漢文訓読が源流のひとつに
+なっている。その漢字かな交じり文に必要な仮名が世に現れる以前には、文の表
+記についていろいろな試みや工夫があった。
+
+『万葉集』はその原文を見ればわかるように、本来全て漢字で記されており、基
+本としては詞書が「漢文」であり肝心の和歌は借字を用いた表記になっている
+が、その和歌のなかには今でいう「訓読み」を交えたものがある。その本文は見
+た目には漢字の羅列である。使われている漢字が借字なのか、または「訓読み」
+として読めばいいのかを区別するための手がかりは、韻文
+<https://ja.wikipedia.org/wiki/%E9%9F%BB%E6%96%87>である和歌の五音や七音
+の音数律に拠ることになる。
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Manyousyu_NukataOhkimi1.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Manyousyu_NukataOhkimi1.jpg>
+『万葉集』巻第一（元暦校本）より。
+
+    熟田津尓舩乗世武登月待者潮毛可奈比沼今者許藝乞菜
+
+これは『万葉集』で「にきたつに　ふなのりせむと　つきまてば　しほもかなひ
+ぬ　いまはこぎいでな」と現在訓読されている和歌の原文である。この文では
+「熟田津」「舩（船）乗」「月待」「潮」「今」が訓読みで、それ以外が借字で
+記されているが、もしこの24字の漢字の羅列が和歌であることを前もって知らな
+ければ、何が書いてあるのかわからないし、当然訓読みと借字の区別もつかな
+い。和歌なら五七五七七と句が分かれているので、それに当てはめてみて何とか
+内容を読むことができる。しかし散文
+<https://ja.wikipedia.org/wiki/%E6%95%A3%E6%96%87>では五音や七音に語句を
+当てはめることは出来ないので、こころみに散文で借字に「訓読み」を交えた文
+を書いたとしても、はじめてそれを読まされる側にとっては、内容を読んで理解
+することは不可能に近い。そうした困難を避けるために作られたのが「宣命書
+き」である。これは漢字の語句の間に、助詞や送り仮名などを小さい借字で書き
+添えるという形式である。また『古事記』には文中に、「この文字は借字として
+読め」という意味の割注 <https://ja.wikipedia.org/wiki/%E5%89%B2%E6%B3
+%A8>を付けて読ませる方法が見られる。
+
+仮名（平仮名・片仮名）の登場は、そのような状況を一変させた。仮名は借字で
+ある漢字から作られたものであるが、もともとの漢字の字形を草書
+<https://ja.wikipedia.org/wiki/%E8%8D%89%E6%9B%B8>よりももっと崩したりま
+たは略したりすることによって、そこに漢字を加えても仮名と区別が出来るよう
+になった。平安時代以降、仮名で記された文学作品が多く作られるようになる
+が、上でも述べたようにそれらはすべてを仮名で記していたわけではなく、ある
+程度漢語や漢字を交えて書くようになっていた。それができたのも漢字と仮名が
+見た目の上で区別できたからであり、これは漢字片仮名交じりの文の場合でも同
+様である。そして時代が下ると『平家物語』などのように、漢語を多用する漢文
+訓読ふうの文も綴られるようになった。
+
+仮名の登場によって日本語の繊細な表現を記すことができるようになったといわ
+れるが、漢字と仮名の区別が漢字かな交じり文の成立を可能にさせ、その漢字か
+な交じり文の発達が、明治 <https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2
+%BB>以降の和製漢語を生む土壌を作った。漢字かな交じり文は現在でも日本語の
+表記体系のなかで重要な地位を占めている。
+
+
+    日本語表記法の変化[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=16>]
+
+
+      明治時代[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=17>]
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Meiji_Kenpo02.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Meiji_Kenpo02.jpg>
+大日本帝国憲法「上諭」2頁目
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hanwa_Tennoji_station_1938.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Hanwa_Tennoji_station_1938.jpg>
+1938年 <https://ja.wikipedia.org/wiki/1938%E5%B9%B4>10月頃の天王寺駅
+<https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%8E%8B%E5%AF%BA%E9%A7%85>。左
+横書きが多いが一部に右横書きも残っている。
+
+明治の大変革はしばらくの間、日本語の表記には影響を与えなかった。しかし教
+育制度の変化に伴い、大量の新語が現れ、また文字を読み書きできる国民が増加
+してくると言語そのものに変化が現れた。大量の新語は他の言語から持ち込まれ
+たものもあれば、新しく作られたものもあった。言文一致
+<https://ja.wikipedia.org/wiki/%E8%A8%80%E6%96%87%E4%B8%80%E8%87%B4>運動
+が完勝を収め、歴史的ないし古典的な文体（文語体
+<https://ja.wikipedia.org/wiki/%E6%96%87%E8%AA%9E%E4%BD%93_(%E6%97%A5%E6
+%9C%AC%E8%AA%9E)>）にとってかわって口語体
+<https://ja.wikipedia.org/wiki/%E5%8F%A3%E8%AA%9E%E4%BD%93>が広く用いら
+れるようになった。日本語の書きづらさについて議論があり、1800年代の終わり
+には表記に用いる漢字の数を制限しようという意見が見られるようになった。外
+国語との接触によって、漢字を廃止
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E5%BB%83%E6%AD%A2%E8
+%AB%96>してカナまたはローマ字のみを用いるようにしようという主張もあった
+が、これは支持されなかった。西洋語風の句読点
+<https://ja.wikipedia.org/wiki/%E5%8F%A5%E8%AA%AD%E7%82%B9>が用いられる
+ようになったのもこの頃である（Twine, 1991）。
+
+1900年 <https://ja.wikipedia.org/wiki/1900%E5%B9%B4>に、文部省
+<https://ja.wikipedia.org/wiki/%E6%96%87%E9%83%A8%E7%9C%81>は日本語表記
+教育の改善を狙って3つの改革を行った:
+
+  * ひらがなの字体を標準化し、それ以外を変体仮名
+    <https://ja.wikipedia.org/wiki/%E5%A4%89%E4%BD%93%E4%BB%AE%E5%90%8D>
+    として排除しようとした。
+  * 漢字の字母数制限。初等教育では1200字に絞った。
+  * 実際の発音に合わなくなっていた漢語のかな表現（字音かな遣い）の改革
+
+最初の2つは次第に広く受け入れられたが、最後の項目は保守層を中心に激しい
+反発を呼び、1908年 <https://ja.wikipedia.org/wiki/1908%E5%B9%B4>に取り下
+げられることとなった（Seeley, 1991）。
+
+
+      第二次世界大戦前[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=18>]
+
+1900年 <https://ja.wikipedia.org/wiki/1900%E5%B9%B4>の改革が部分的に失敗
+したこととナショナリズム
+<https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3
+%83%AA%E3%82%BA%E3%83%A0>の勃興とが合わさり、日本語表記法の改良は進まな
+かった。漢字の制限については多くの要求があり、いくつかの新聞は自主的に漢
+字を減らして送り仮名を増やしたが、公的な支持はなく反対も多かった。
+
+
+      第二次世界大戦後[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=19>]
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihon_Kenpo01.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Nihon_Kenpo01.jpg>
+日本国憲法原本「上諭」（1ページ目）
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Street_stall_Cheese_Yatai_in_Japan.jpg>
+
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Street_stall_Cheese_Yatai_in_Japan.jpg>
+屋台 <https://ja.wikipedia.org/wiki/%E5%B1%8B%E5%8F%B0>の右側面 ズーチ
+（チーズ <https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%82%BA>）
+
+終戦直後、大きな改革が行われた。一部にはGHQ
+<https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E6
+%9C%80%E9%AB%98%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%B7%8F%E5%8F%B8%E4%BB%A4%E9
+%83%A8>の影響もあったが、重要な部分のほとんどは保守主義者が教育制度の管
+理機構から排除されたことに起因しており、以前は着手されなかった改革を進め
+ることができた^[/要出典
+<https://ja.wikipedia.org/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8>/]
+。
+
+大きな点は:
+
+  * 現代仮名遣い
+    <https://ja.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E4%BB%AE%E5%90%8D
+    %E9%81%A3%E3%81%84>の全面的採用 （1946年）
+  * 当用漢字
+    <https://ja.wikipedia.org/wiki/%E5%BD%93%E7%94%A8%E6%BC%A2%E5%AD%97>
+    （1850字）の発布 （1946年）
+  * 教育漢字
+    <https://ja.wikipedia.org/wiki/%E6%95%99%E8%82%B2%E6%BC%A2%E5%AD%97>
+    の統一書体発布 （1949年）
+  * 人名用漢字
+    <https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2
+    %E5%AD%97>の発布 （1951年）
+
+ある時期、GHQ内の一部の方針としてローマ字表記への変更が要請されたことが
+あるが、他の専門家の反対によって沙汰止みとなった（Unger, 1996）。日本の
+文化人の中にも、ローマ字表記を主張し試行する者がいたが、全かな表記と同
+様、漢字を表記しないと意味識別が困難であり、実用化されなかった。韓国
+<https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD>と北
+朝鮮
+<https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%AE%AE%E6%B0%91%E4%B8%BB%E4
+%B8%BB%E7%BE%A9%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD>で漢字混在
+表記を廃止してハングル（チョソングル
+<https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%BD%E3%83%B3%E3
+%82%B0%E3%83%AB>）一元表記に実際に変更した結果として漢字文化の伝統が若い
+世代に伝わらず、問題となっていることと対照的であるとも言える（参考：ハン
+グル <https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83
+%AB>および六十年文字戦争
+<https://ja.wikipedia.org/wiki/%E9%9F%93%E5%9B%BD%E3%81%AB%E3%81%8A%E3
+%81%91%E3%82%8B%E6%BC%A2%E5%AD%97#%E5%85%AD%E5%8D%81%E5%B9%B4%E6%96%87
+%E5%AD%97%E6%88%A6%E4%BA%89>）。ベトナム
+<https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0>も独
+立後に漢字を全廃し、アルファベット
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3
+%83%99%E3%83%83%E3%83%88>を使ったクオック・グー
+<https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%83%E3%82%AF%E3
+%83%BB%E3%82%B0%E3%83%BC>に変更したため、韓国・北朝鮮と同様に漢字文化の
+伝統が若い世代に伝わらなくなっている。
+
+加えて、一見、右横書きに見える「一行一字の縦書き」（例えば東京駅の駅名票
+<https://ja.wikipedia.org/wiki/%E9%A7%85%E5%90%8D%E7%A5%A8> 「駅京東」）
+は殆ど姿を消し、左横書きに事実上一本化された。戦前から左横書きはある程度
+普及しており、終戦によって一度に置き換わったわけではなく、その速度が加速
+したとも言える。「*縦書きと横書き
+<https://ja.wikipedia.org/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6
+%A8%AA%E6%9B%B8%E3%81%8D>*」の項も参照。 しかし現在でも、商用車や船舶の
+ような乗り物の側面で、左側面では左書き、右側面では右横書きが用いられるこ
+とがある。（トラックの左側面に「ウィキ商会」、右側面に「会商キィウ」と書
+くなど）。これは「進行方向から後ろ」へと読み方が方向付けられることによる
+純粋な右横書きと考えてよいものであるが、あくまで特殊な例である。
+
+1963年 <https://ja.wikipedia.org/wiki/1963%E5%B9%B4>に国語審議会で、吉田
+富三 <https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E5%AF%8C%E4%B8
+%89>が「国語は漢字かな交じり文をもって表記の正則とする。国語審議会はこの
+前提の下に、国語の改善を審議するものとする」という提案を行い、1965年
+<https://ja.wikipedia.org/wiki/1965%E5%B9%B4>には認められた。この吉田提
+案は「現状の姿が最も正しい形であり、漢字が多すぎる等というのは誤りであ
+る」と主張している。これが日本で漢字かな交じり文が公的に認められた最初で
+ある。それまでの制限的な色合いが大幅に緩和され、1981年
+<https://ja.wikipedia.org/wiki/1981%E5%B9%B4>、当用漢字を元にしつつも、
+緩やかな目安である常用漢字1945字が内閣から告示され、当用漢字は廃止された。
+
+2004年 <https://ja.wikipedia.org/wiki/2004%E5%B9%B4>には、法務省
+<https://ja.wikipedia.org/wiki/%E6%B3%95%E5%8B%99%E7%9C%81>の手で人名用
+漢字が大量に追加された。
+
+戦後の日本語表記に関して、ごく簡略に言えば「名詞・用言の語幹を漢字
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>で、用言の活用語尾・付
+属語をひらがな <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90
+%8D>で表記する」という書き分けの原則が存在する/（詳細は上記*文字種の使い
+分け*の項参照）/。わかち書き
+<https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%8B%E3%81%A1%E6%9B%B8%E3
+%81%8D>を行わない日本語の表記では、この原則が語と語の切れ目を表示する機
+能を担っている。
+
+公文書などは当用漢字
+<https://ja.wikipedia.org/wiki/%E5%BD%93%E7%94%A8%E6%BC%A2%E5%AD%97>、常
+用漢字 <https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%94%A8%E6%BC%A2%E5%AD
+%97>のみをもって記述すべきとの方針が示され、新聞などもこれに倣ったため、
+まぜ書き
+<https://ja.wikipedia.org/w/index.php?title=%E3%81%BE%E3%81%9C%E6%9B%B8
+%E3%81%8D&action=edit&redlink=1>（例：拿捕→だ捕）や漢語の仮名表記（例：
+軋轢→あつれき）が頻繁に見られるようになった。漢字制限
+<https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E5%88%B6%E9%99%90>の理
+念に沿うものだが、上記のような事情があるため語と語の切れ目が見えにくくな
+り、かえって読みづらいとの批判がある。見苦しい、文化破壊である、といった
+批判も根強い。
+
+これらの流れについては「*国語国字問題
+<https://ja.wikipedia.org/wiki/%E5%9B%BD%E8%AA%9E%E5%9B%BD%E5%AD%97%E5
+%95%8F%E9%A1%8C>*」の項も参照されたい。
+
+
+    ニュアンスを伝える日本語表記系[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=20>]
+
+他の言語では説明を追加したり単語自体を変更したりしなければならない情報で
+も、日本語の表記システムを用いれば同じ単語の表記を変えるだけで伝えること
+ができる場合がある。例えば英語の「 I 」、ドイツ語の「 ich 」、ロシア語の
+「 Я 」に相当する「私」は男女兼用でフォーマルな文章にしばしば用いられ
+る。ひらがなで書いた「わたし」は、口語的なニュアンスを帯びており優しい感
+じがするので、男女ともにインフォーマルな場や、親しみやすさを表現したい場
+合に使用される。例えば、女性が日記や友人への手紙で用いるなどは、その典型
+である。
+
+カタカナの「ワタシ」は通常はほとんど用いられず、あえて一人称を強調する時
+や、外国人が片言で話すニュアンスを出す場合に用いられることがある程度であ
+る。転写にすぎないローマ字の「watashi」は、出現することは滅多になく、言
+語学 <https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E5%AD%A6>や暗号
+<https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7>などなにかの意図を含め
+る場合にしか出現しない。ただし言語学の場合で問題になっているのは単語の意
+味ではなく単語それ自体である。暗号の場合は表記を隠す意図による。
+
+文体上の狙いで漢字の複合語を恣意的に読ませることもできる。例えば夏目漱石
+は短編『十五夜 <https://ja.wikipedia.org/wiki/%E5%8D%81%E4%BA%94%E5%A4
+%9C>』の中で名詞の「接続」を動詞的に活用した「接続って」を「つながって」
+と読ませている。これは通常ならば「繋がって」「つながって」と書くものであ
+る。なお、このような複数の漢字を、それに意味的対応する日本語のかな読みす
+る例は、「天皇」を「すめらみこと・すめろぎ」、「日本」を「やまと」と読ま
+せるなど、古くから存在している。
+
+
+    ローマ字転写[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=21>]
+
+詳細は「ローマ字
+<https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97>」を参照
+
+日本語をローマ字で転写する方法にはいくつかある。英語利用者向けに開発され
+たヘボン式
+<https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%9C%E3%83%B3%E5%BC%8F>は、
+実用的な標準
+<https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%95%E3%82%A1%E3%82%AF%E3
+%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89>の表記法と
+して、日本国内の外ラテン文字圏
+<https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%86%E3%83%B3%E6%96%87%E5
+%AD%97#%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9E>で用いられている。訓令式
+<https://ja.wikipedia.org/wiki/%E8%A8%93%E4%BB%A4%E5%BC%8F>はカナとの対
+応が良く日本語話者には学びやすい。文部省がこれを公式に支持しているが、日
+本国外で用いられることは稀である。国際規格としてISO 3602
+<https://ja.wikipedia.org/wiki/ISO_3602>があり、他にも日本式
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%BC%8F%E3%83%AD%E3
+%83%BC%E3%83%9E%E5%AD%97>、JSL <https://ja.wikipedia.org/wiki/JSL>、ワー
+プロ式
+<https://ja.wikipedia.org/w/index.php?title=%E3%83%AF%E3%83%BC%E3%83%97
+%E3%83%AD%E5%BC%8F&action=edit&redlink=1>がある。
+
+キリル文字
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3
+%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97%E8%A1%A8%E8%A8%98>、アラビア
+文字
+<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E6
+%96%87%E5%AD%97%E5%8C%96#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%A2
+%E3%83%A9%E3%83%93%E3%82%A2%E6%96%87%E5%AD%97%E8%A1%A8%E8%A8%98%E6%B3
+%95>、デーヴァナーガリー
+<https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%B4%E3%82%A1%E3
+%83%8A%E3%83%BC%E3%82%AC%E3%83%AA%E3%83%BC>による転写もある。
+
+
+    参考文献[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=22>]
+
+  * 伴直方　『国字考』〈『国語学大系』第八巻〉　厚生閣、1940年
+  * Christopher Seeley　『The Japanese Script since 1900』　Visible
+    Language, XVIII 3, 267-302, 1984
+  * Yaeko Sato Habein　『The History of the Japanese Written Language』
+    　University of Tokyo Press, 1984　ISBN 0-86008-347-0
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0860083470>
+  * Nanette Twine　『Language and the Modern State - The Reform of
+    Written Japanese』　Routledge, 1991　ISBN 0-4150-0990-1
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0415009901>
+  * Christopher Seeley　『A History of Writing in Japan』　University of
+    Hawai'i Press, 1991　ISBN 0-8248-2217-X
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/082482217X>
+  * Nanette Gottlieb　『Kanji Politics - Language Policy and Japanese
+    Script』　Kegan Paul, 1996　ISBN 0-7103-0512-5
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0710305125>
+  * J. Marshall Unger
+    <https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3
+    %E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC>　『Literacy
+    and Script Reform in Occupation Japan: Reading Between the Lines』　
+    OUP, 1996　ISBN 0-1951-0166-9
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/0195101669>
+  * 小松英雄
+    <https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E8%8B%B1%E9%9B%84>
+    　『日本語書記史原論』　笠間書院、1998年
+  * 山口仲美
+    <https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E4%BB%B2%E7%BE%8E>
+    　『日本語の歴史』〈『岩波新書』〉　岩波書店、2006年
+
+
+    関連項目[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=23>]
+
+  * 日本語 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E>
+  * 日本における漢字
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97>
+  * 旧字体 <https://ja.wikipedia.org/wiki/%E6%97%A7%E5%AD%97%E4%BD%93> -
+    新字体 <https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AD%97%E4%BD%93>
+  * 国語国字問題
+    <https://ja.wikipedia.org/wiki/%E5%9B%BD%E8%AA%9E%E5%9B%BD%E5%AD%97%E5%95%8F%E9%A1%8C>
+  * 仮名 (文字)
+    <https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)>
+  * ひらがな <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90
+    %8D>、カタカナ
+    <https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90%8D>、アイヌ
+    語仮名
+    <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%8C%E8%AA%9E
+    %E4%BB%AE%E5%90%8D>、台湾語仮名
+    <https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E8%AA%9E%E4%BB%AE%E5%90%8D>
+  * 仮名遣 <https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D%E9%81%A3>
+      o 現代仮名遣い
+        <https://ja.wikipedia.org/wiki/%E7%8F%BE%E4%BB%A3%E4%BB%AE%E5%90
+        %8D%E9%81%A3%E3%81%84>、歴史的仮名遣
+        <https://ja.wikipedia.org/wiki/%E6%AD%B4%E5%8F%B2%E7%9A%84%E4%BB%AE%E5%90%8D%E9%81%A3>
+  * ローマ字
+    <https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97>
+  * 書記言語
+    <https://ja.wikipedia.org/wiki/%E6%9B%B8%E8%A8%98%E8%A8%80%E8%AA
+    %9E>、文語体 (日本語)
+    <https://ja.wikipedia.org/wiki/%E6%96%87%E8%AA%9E%E4%BD%93_(%E6%97%A5%E6%9C%AC%E8%AA%9E)>
+  * 文語 <https://ja.wikipedia.org/wiki/%E6%96%87%E8%AA%9E>、口語
+    <https://ja.wikipedia.org/wiki/%E5%8F%A3%E8%AA%9E>
+  * 縦書きと横書き
+    <https://ja.wikipedia.org/wiki/%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A8%E6%A8%AA%E6%9B%B8%E3%81%8D>
+  * ルビ <https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93>
+  * 漢文訓読
+    <https://ja.wikipedia.org/wiki/%E6%BC%A2%E6%96%87%E8%A8%93%E8%AA%AD>
+  * 公用文作成の要領
+    <https://ja.wikipedia.org/wiki/%E5%85%AC%E7%94%A8%E6%96%87%E4%BD%9C%E6%88%90%E3%81%AE%E8%A6%81%E9%A0%98>
+  * 沖縄方言の表記体系
+    <https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E6%96%B9%E8%A8%80
+    %E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>、方言字
+    <https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97>
+  * ケセン語
+    <https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%BB%E3%83%B3%E8%AA%9E>
+  * クサチュー語
+    <https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E8%AA%9E>
+
+
+      文字の書体[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=24>]
+
+  * 楷書体 <https://ja.wikipedia.org/wiki/%E6%A5%B7%E6%9B%B8%E4%BD%93>
+  * 行書体 <https://ja.wikipedia.org/wiki/%E8%A1%8C%E6%9B%B8%E4%BD%93>
+  * 草書体 <https://ja.wikipedia.org/wiki/%E8%8D%89%E6%9B%B8%E4%BD%93>
+  * 江戸文字
+    <https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%96%87%E5%AD%97>各種
+  * 明朝体 <https://ja.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D%E4%BD%93>
+  * ゴシック体
+    <https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%BD%93>
+  * ポップ書体
+    <https://ja.wikipedia.org/w/index.php?title=%E3%83%9D%E3%83%83%E3%83%97%E6%9B%B8%E4%BD%93&action=edit&redlink=1>
+
+
+      仮名の異体[編集
+      <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=25>]
+
+  * ギャル文字
+    <https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E6%96%87%E5%AD%97>
+  * 変体仮名
+    <https://ja.wikipedia.org/wiki/%E5%A4%89%E4%BD%93%E4%BB%AE%E5%90%8D>
+  * 万葉仮名
+    <https://ja.wikipedia.org/wiki/%E4%B8%87%E8%91%89%E4%BB%AE%E5%90%8D>
+  * 合略仮名
+    <https://ja.wikipedia.org/wiki/%E5%90%88%E7%95%A5%E4%BB%AE%E5%90%8D>
+
+
+    外部リンク[編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit&section=26>]
+
+	ウィキメディア・コモンズには、*日本語の表記
+<https://commons.wikimedia.org/wiki
+/Category:Japanese_writing?uselang=ja>*に関連するカテゴリがあります。
+
+  * The Modern Japanese Writing System
+    <http://www.pinyin.info/readings/texts/unger2_introduction.html#modern_japanese>:
+    an excerpt from 『Literacy and Script Reform in Occupation Japan』
+    by J. Marshall Unger.
+
+[表示 <#>]
+
+  * 表
+    <https://ja.wikipedia.org/wiki/Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE>
+  * 話
+    <https://ja.wikipedia.org/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE>
+  * 編
+    <https://ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE&action=edit>
+  * 歴
+    <https://ja.wikipedia.org/w/index.php?title=Template:%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E3%81%AE%E9%A0%85%E7%9B%AE&action=history>
+
+日本の旗
+<https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg>
+日本 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC>関連の主要項目
+
+  * 国語 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E>
+  * 国旗
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E6%97%97>
+  * 国歌 <https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%8C%E4%BB%A3>
+  * 国章
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E7%AB%A0>
+  * 国石 <https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%99%B6>
+  * 国花 <https://ja.wikipedia.org/wiki/%E5%9B%BD%E8%8A%B1>
+  * 国蝶
+    <https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD>
+  * 国魚
+    <https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B7%E3%82%AD%E3%82%B4%E3%82%A4>
+  * 国鳥 <https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B8>
+  * 国犬 <https://ja.wikipedia.org/wiki/%E7%8B%86>
+  * 国菌 <https://ja.wikipedia.org/wiki/%E9%BA%B9%E8%8F%8C>
+  * 国技
+    <https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%8A%80#%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E6%8A%80>
+
+歴史
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2>
+	
+
+  * 各時代
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%99%82%E4%BB%A3%E5%8C%BA%E5%88%86%E8%A1%A8>
+  * 一覧記事
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Symbol_list_class.svg>年表
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B%E4%B8%80%E8%A6%A7>
+  * 一覧記事
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Symbol_list_class.svg>元号
+    <https://ja.wikipedia.org/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_(%E6%97%A5%E6%9C%AC)>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>政治史
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB%E5%8F%B2>
+  * 経済史
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B5%8C%E6%B8%88%E5%8F%B2>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>文化史
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96%E5%8F%B2>
+  * 教育史
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%95%99%E8%82%B2%E5%8F%B2>
+  * 軍事史
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E5%8F%B2>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>その他のテーマ史
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E5%8F%B2>
+  * 倭国 <https://ja.wikipedia.org/wiki/%E5%80%AD%E5%9B%BD>
+  * 地震
+    <https://ja.wikipedia.org/wiki/%E5%9C%B0%E9%9C%87%E3%81%AE%E5%B9%B4%E8%A1%A8_(%E6%97%A5%E6%9C%AC)>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>台風
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8F%B0%E9%A2%A8>
+  * 革命
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%A9%E5%91%BD>
+
+地理
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E7%90%86>
+	
+
+  * 日本列島
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6>
+      o 北海道 <https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93>
+      o 本州 <https://ja.wikipedia.org/wiki/%E6%9C%AC%E5%B7%9E>
+      o 四国 <https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD>
+      o 九州 <https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E>
+      o 沖縄本島
+        <https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E6%9C%AC%E5%B3%B6>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>島
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B3%B6%E3%81%AE%E4%B8%80%E8%A6%A7>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>山
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B1%B1%E4%B8%80%E8%A6%A7>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>川
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%9D%E4%B8%80%E8%A6%A7>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>端
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AB%AF%E3%81%AE%E4%B8%80%E8%A6%A7>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>海域
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B5%B7%E5%9F%9F>
+
+      o 日本海 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7>
+      o 太平洋 <https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B>
+      o 東シナ海
+        <https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%B7%E3%83%8A%E6%B5%B7>
+      o オホーツク海
+        <https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E6%B5%B7>
+      o カテゴリ
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Folder_Hexagonal_Icon.svg>海峡
+        <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B5%B7%E5%B3%A1>
+      o EEZ
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%8E%92%E4%BB%96%E7%9A%84%E7%B5%8C%E6%B8%88%E6%B0%B4%E5%9F%9F>
+  * 北方領土
+    <https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%B9%E5%9C%B0%E5%9F%9F>
+      o 問題
+        <https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%B9%E9%A0%98%E5%9C%9F%E5%95%8F%E9%A1%8C>
+  * 竹島
+    <https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%B3%B6_(%E5%B3%B6%E6%A0%B9%E7%9C%8C)>
+  * 尖閣諸島
+    <https://ja.wikipedia.org/wiki/%E5%B0%96%E9%96%A3%E8%AB%B8%E5%B3%B6>
+      o 問題
+        <https://ja.wikipedia.org/wiki/%E5%B0%96%E9%96%A3%E8%AB%B8%E5%B3%B6%E5%95%8F%E9%A1%8C>
+  * 地方行政区画
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F>
+
+      o 北日本 <https://ja.wikipedia.org/wiki/%E5%8C%97%E6%97%A5%E6%9C%AC>
+      o 東日本 <https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC>
+      o 中日本 <https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E6%9C%AC>
+      o 西日本 <https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC>
+      o 南日本 <https://ja.wikipedia.org/wiki/%E5%8D%97%E6%97%A5%E6%9C%AC>
+      o 表日本 <https://ja.wikipedia.org/wiki/%E8%A1%A8%E6%97%A5%E6%9C%AC>
+      o 裏日本 <https://ja.wikipedia.org/wiki/%E8%A3%8F%E6%97%A5%E6%9C%AC>
+      o 都道府県
+        <https://ja.wikipedia.org/wiki/%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>地方自治体
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E6%96%B9%E5%85%AC%E5%85%B1%E5%9B%A3%E4%BD%93%E4%B8%80%E8%A6%A7>
+  * 令制国 <https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%88%B6%E5%9B%BD>
+  * 環境と環境政策
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%92%B0%E5%A2%83%E3%81%A8%E7%92%B0%E5%A2%83%E6%94%BF%E7%AD%96>
+  * 観光
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A6%B3%E5%85%89>
+  * 世界遺産
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3>
+
+政治
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E6%B2%BB>
+	
+
+  * 法 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B3%95>
+      o 六法 <https://ja.wikipedia.org/wiki/%E5%85%AD%E6%B3%95>
+      o 大日本帝国憲法
+        <https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9B%BD%E6%86%B2%E6%B3%95>
+      o 日本国憲法
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95>
+  * 天皇 <https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%9A%87>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>一覧
+        <https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%9A%87%E3%81%AE%E4%B8%80%E8%A6%A7>
+  * 政府
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C>
+  * 内閣総理大臣
+    <https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3>
+
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>一覧
+        <https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E7%B7%8F%E7%90%86%E5%A4%A7%E8%87%A3%E3%81%AE%E4%B8%80%E8%A6%A7>
+  * 内閣
+    <https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3_(%E6%97%A5%E6%9C%AC)>
+  * 閣僚
+    <https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%8B%99%E5%A4%A7%E8%87%A3>
+  * 会計検査院
+    <https://ja.wikipedia.org/wiki/%E4%BC%9A%E8%A8%88%E6%A4%9C%E6%9F%BB%E9%99%A2>
+  * 行政機関
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A1%8C%E6%94%BF%E6%A9%9F%E9%96%A2>
+  * 国会
+    <https://ja.wikipedia.org/wiki/%E5%9B%BD%E4%BC%9A_(%E6%97%A5%E6%9C%AC)>
+      o 衆議院 <https://ja.wikipedia.org/wiki/%E8%A1%86%E8%AD%B0%E9%99%A2>
+      o 参議院 <https://ja.wikipedia.org/wiki/%E5%8F%82%E8%AD%B0%E9%99%A2>
+  * 政党
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E5%85%9A>
+
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>一覧
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%94%BF%E5%85%9A%E4%B8%80%E8%A6%A7>
+  * 選挙
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%B8%E6%8C%99>
+
+      o 衆議院議員総選挙
+        <https://ja.wikipedia.org/wiki/%E8%A1%86%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E7%B7%8F%E9%81%B8%E6%8C%99>
+      o 参議院議員通常選挙
+        <https://ja.wikipedia.org/wiki/%E5%8F%82%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E9%80%9A%E5%B8%B8%E9%81%B8%E6%8C%99>
+  * 裁判所
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A3%81%E5%88%A4%E6%89%80>
+
+      o 最高裁
+        <https://ja.wikipedia.org/wiki/%E6%9C%80%E9%AB%98%E8%A3%81%E5%88%A4%E6%89%80_(%E6%97%A5%E6%9C%AC)>
+      o 違憲判決
+        <https://ja.wikipedia.org/wiki/%E9%81%95%E6%86%B2%E5%88%A4%E6%B1%BA>
+  * 刑事司法
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%88%91%E4%BA%8B%E5%8F%B8%E6%B3%95>
+
+      o 裁判員制度
+        <https://ja.wikipedia.org/wiki/%E8%A3%81%E5%88%A4%E5%93%A1%E5%88%B6%E5%BA%A6>
+      o 刑事施設
+        <https://ja.wikipedia.org/wiki/%E5%88%91%E4%BA%8B%E6%96%BD%E8%A8%AD>
+      o 拘置所 <https://ja.wikipedia.org/wiki/%E6%8B%98%E7%BD%AE%E6%89%80>
+      o 刑務所
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%88%91%E5%8B%99%E6%89%80>
+  * 警察
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F>
+  * 海上警察
+    <https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%BA%81>
+  * 消防
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B6%88%E9%98%B2>
+  * 軍事
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B>
+  * 自衛隊 <https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A>
+      o 統幕
+        <https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E5%B9%95%E5%83%9A%E7%9B%A3%E9%83%A8>
+      o 陸上
+        <https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A>
+      o 海上
+        <https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A>
+      o 航空
+        <https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E8%87%AA%E8%A1%9B%E9%9A%8A>
+  * 在日米軍
+    <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D>
+      o 日米安保条約
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%81%A8%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%81%A8%E3%81%AE%E9%96%93%E3%81%AE%E7%9B%B8%E4%BA%92%E5%8D%94%E5%8A%9B%E5%8F%8A%E3%81%B3%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%9D%A1%E7%B4%84>
+      o 日米地位協定
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B1%B3%E5%9C%B0%E4%BD%8D%E5%8D%94%E5%AE%9A>
+  * 学生運動
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AD%A6%E7%94%9F%E9%81%8B%E5%8B%95>
+
+経済
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B5%8C%E6%B8%88>
+	
+
+  * 日本銀行
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C>
+  * 日本円 <https://ja.wikipedia.org/wiki/%E5%86%86_(%E9%80%9A%E8%B2%A8)>
+  * 租税
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%9F%E7%A8%8E>
+  * 国債
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%82%B5>
+  * 農業
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BE%B2%E6%A5%AD>
+  * 工業
+    <https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD#%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B7%A5%E6%A5%AD>
+  * 鉱業
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%B1%E6%A5%AD>
+  * 科学技術
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93>
+  * エネルギー資源
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E8%B3%87%E6%BA%90>
+  * 石油・天然ガス資源
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%83%BB%E5%A4%A9%E7%84%B6%E3%82%AC%E3%82%B9%E8%B3%87%E6%BA%90>
+  * 電力会社
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9B%BB%E5%8A%9B%E4%BC%9A%E7%A4%BE>
+
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>水力
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%99%BA%E9%9B%BB%E7%94%A8%E3%83%80%E3%83%A0%E4%B8%80%E8%A6%A7>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>火力
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%81%AB%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80%E4%B8%80%E8%A6%A7>
+      o 風力
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A2%A8%E5%8A%9B%E7%99%BA%E9%9B%BB>
+      o 原子力
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80>
+      o 太陽光
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E6%89%80>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>バイオマス
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%9E%E3%82%B9%E7%99%BA%E9%9B%BB%E6%89%80%E4%B8%80%E8%A6%A7>
+  * 捕鯨
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%8D%95%E9%AF%A8>
+  * 新聞
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%B0%E8%81%9E>
+  * 交通
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%A4%E9%80%9A>
+
+      o 自動車
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%87%AA%E5%8B%95%E8%BB%8A>
+      o 日本車 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%BB%8A>
+      o 道路
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF>
+      o 高速道路
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF>
+
+          + 一覧記事
+            <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Symbol_list_class.svg>
+            一覧
+            <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%E4%B8%80%E8%A6%A7>
+      o バス
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%82%B9>
+      o オートバイ
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4>
+      o タクシー
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC>
+      o 鉄道
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%89%84%E9%81%93>
+      o 地下鉄
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E4%B8%8B%E9%89%84>
+      o モノレール
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB>
+      o 新幹線 <https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B9%B9%E7%B7%9A>
+      o 空港
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A9%BA%E6%B8%AF>
+      o 国際空港
+        <https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF>
+      o 航空機産業
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%88%AA%E7%A9%BA%E6%A9%9F%E7%94%A3%E6%A5%AD>
+      o 自転車
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E8%BB%A2%E8%BB%8A>
+      o 一覧記事
+        <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+        %AB:Symbol_list_class.svg>港湾
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B8%AF%E6%B9%BE%E4%B8%80%E8%A6%A7>
+  * 郵便番号
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B5%E4%BE%BF%E7%95%AA%E5%8F%B7>
+  * 電話番号
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7>
+
+      o 携帯電話
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1>
+      o IP電話
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AEIP%E9%9B%BB%E8%A9%B1>
+  * インターネット
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88>
+
+      o .jp <https://ja.wikipedia.org/wiki/.jp>
+      o 高速ネット接続
+        <https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%83%90%E3%83%B3%E3%83%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E6%8E%A5%E7%B6%9A#%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%AE%E5%B1%95%E9%96%8B>
+  * テレビ放送局
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E6%94%BE%E9%80%81%E5%B1%80>
+
+      o 地デジ
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E4%B8%8A%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81>
+      o 衛星放送
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A1%9B%E6%98%9F%E6%94%BE%E9%80%81>
+  * ラジオ放送局
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81%E5%B1%80>
+  * 宇宙開発
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%87%E5%AE%99%E9%96%8B%E7%99%BA>
+
+文化
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96>
+	
+
+  * 日本文明
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%87%E6%98%8E>
+  * 神話
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%A5%9E%E8%A9%B1>
+  * 漢字 <https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97>
+      o 日本漢字
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%BC%A2%E5%AD%97>
+      o 訓読み <https://ja.wikipedia.org/wiki/%E8%A8%93%E8%AA%AD%E3%81%BF>
+      o 音読み <https://ja.wikipedia.org/wiki/%E9%9F%B3%E8%AA%AD%E3%81%BF>
+  * 仮名
+    <https://ja.wikipedia.org/wiki/%E4%BB%AE%E5%90%8D_(%E6%96%87%E5%AD%97)>
+      o 片仮名 <https://ja.wikipedia.org/wiki/%E7%89%87%E4%BB%AE%E5%90%8D>
+      o 平仮名 <https://ja.wikipedia.org/wiki/%E5%B9%B3%E4%BB%AE%E5%90%8D>
+  * 日本式ローマ字
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%BC%8F%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97>
+  * 和服 <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%9C%8D>
+      o 平安装束
+        <https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E8%A3%85%E6%9D%9F>
+      o 浴衣 <https://ja.wikipedia.org/wiki/%E6%B5%B4%E8%A1%A3>
+  * 日本髪 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%AB%AA>
+  * 日本人形
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%BD%A2>
+  * 花見 <https://ja.wikipedia.org/wiki/%E8%8A%B1%E8%A6%8B>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>国の象徴
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E3%81%AE%E8%B1%A1%E5%BE%B4>
+
+      o 桜 <https://ja.wikipedia.org/wiki/%E6%A1%9C>
+      o 富士山 <https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E5%B1%B1>
+      o 侍 <https://ja.wikipedia.org/wiki/%E4%BE%8D>
+      o 寿司 <https://ja.wikipedia.org/wiki/%E5%AF%BF%E5%8F%B8>
+      o 三種の神器
+        <https://ja.wikipedia.org/wiki/%E4%B8%89%E7%A8%AE%E3%81%AE%E7%A5%9E%E5%99%A8>
+      o 天照大神
+        <https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%85%A7%E5%A4%A7%E7%A5%9E>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>食文化
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A3%9F%E6%96%87%E5%8C%96>
+
+      o 日本料理
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86>
+      o 日本酒 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%85%92>
+      o ビール
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%93%E3%83%BC%E3%83%AB>
+      o ワイン
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3>
+      o 焼酎 <https://ja.wikipedia.org/wiki/%E7%84%BC%E9%85%8E>
+      o 日本茶 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%8C%B6>
+      o 和菓子 <https://ja.wikipedia.org/wiki/%E5%92%8C%E8%8F%93%E5%AD%90>
+      o 郷土料理
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86>
+      o 食事作法
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%A3%9F%E4%BA%8B%E4%BD%9C%E6%B3%95>
+      o 旬 <https://ja.wikipedia.org/wiki/%E6%97%AC>
+      o 洋食 <https://ja.wikipedia.org/wiki/%E6%B4%8B%E9%A3%9F>
+  * 建築
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%BB%BA%E7%AF%89%E5%8F%B2>
+
+      o 寝殿造 <https://ja.wikipedia.org/wiki/%E5%AF%9D%E6%AE%BF%E9%80%A0>
+      o 書院造 <https://ja.wikipedia.org/wiki/%E6%9B%B8%E9%99%A2%E9%80%A0>
+      o 武家造 <https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%AE%B6%E9%80%A0>
+      o 数寄屋造
+        <https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AF%84%E5%B1%8B%E9%80%A0>
+      o 合掌造 <https://ja.wikipedia.org/wiki/%E5%90%88%E6%8E%8C%E9%80%A0>
+      o 神社建築
+        <https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%A4%BE%E5%BB%BA%E7%AF%89>
+      o 寺院建築
+        <https://ja.wikipedia.org/w/index.php?title=%E5%AF%BA%E9%99%A2%E5%BB%BA%E7%AF%89&action=edit&redlink=1>
+      o 琉球建築
+        <https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%BB%BA%E7%AF%89>
+      o 帝冠建築
+        <https://ja.wikipedia.org/wiki/%E5%B8%9D%E5%86%A0%E6%A7%98%E5%BC%8F>
+      o 擬洋風建築
+        <https://ja.wikipedia.org/wiki/%E6%93%AC%E6%B4%8B%E9%A2%A8%E5%BB%BA%E7%AF%89>
+      o 和洋折衷建築
+        <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%B4%8B%E6%8A%98%E8%A1%B7%E5%BB%BA%E7%AF%89>
+      o 城郭建築
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9F%8E>
+      o 住宅
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BD%8F%E5%AE%85>
+      o 民家
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E5%AE%B6>
+      o 長屋 <https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B1%8B>
+      o 文化住宅
+        <https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BD%8F%E5%AE%85>
+      o オール電化住宅
+        <https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E9%9B%BB%E5%8C%96%E4%BD%8F%E5%AE%85>
+  * 和室 <https://ja.wikipedia.org/wiki/%E5%92%8C%E5%AE%A4>
+  * 茶室 <https://ja.wikipedia.org/wiki/%E8%8C%B6%E5%AE%A4>
+  * 便所
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BE%BF%E6%89%80>
+  * 芸道 <https://ja.wikipedia.org/wiki/%E8%8A%B8%E9%81%93>
+      o 伝統芸能
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD>
+      o 能楽 <https://ja.wikipedia.org/wiki/%E8%83%BD%E6%A5%BD>
+      o 歌舞伎 <https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E>
+      o 人形浄瑠璃
+        <https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%BD%A2%E6%B5%84%E7%91%A0%E7%92%83>
+      o 和歌 <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C>
+      o 連歌 <https://ja.wikipedia.org/wiki/%E9%80%A3%E6%AD%8C>
+      o 唱歌
+        <https://ja.wikipedia.org/wiki/%E5%94%B1%E6%AD%8C_(%E6%BC%94%E5%A5%8F%E6%B3%95)>
+      o 短歌 <https://ja.wikipedia.org/wiki/%E7%9F%AD%E6%AD%8C>
+      o 俳句 <https://ja.wikipedia.org/wiki/%E4%BF%B3%E5%8F%A5>
+      o 川柳 <https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%9F%B3>
+      o 日本舞踊
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%88%9E%E8%B8%8A>
+      o 華道 <https://ja.wikipedia.org/wiki/%E8%8F%AF%E9%81%93>
+      o 香道 <https://ja.wikipedia.org/wiki/%E9%A6%99%E9%81%93>
+      o 茶道 <https://ja.wikipedia.org/wiki/%E8%8C%B6%E9%81%93>
+      o 歌道 <https://ja.wikipedia.org/wiki/%E6%AD%8C%E9%81%93>
+      o 書道
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9B%B8%E9%81%93%E5%8F%B2>
+      o 音曲 <https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%9B%B2>
+      o 邦楽 <https://ja.wikipedia.org/wiki/%E9%82%A6%E6%A5%BD>
+  * 武芸
+    <https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%8A%B8_(%E6%97%A5%E6%9C%AC)>
+      o 武道 <https://ja.wikipedia.org/wiki/%E6%AD%A6%E9%81%93>
+      o 武士道 <https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%A3%AB%E9%81%93>
+      o 古武道 <https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%AD%A6%E9%81%93>
+      o 剣道 <https://ja.wikipedia.org/wiki/%E5%89%A3%E9%81%93>
+      o 相撲 <https://ja.wikipedia.org/wiki/%E7%9B%B8%E6%92%B2>
+      o 柔道 <https://ja.wikipedia.org/wiki/%E6%9F%94%E9%81%93>
+      o 合気道 <https://ja.wikipedia.org/wiki/%E5%90%88%E6%B0%97%E9%81%93>
+      o 弓道 <https://ja.wikipedia.org/wiki/%E5%BC%93%E9%81%93>
+      o 居合道 <https://ja.wikipedia.org/wiki/%E5%B1%85%E5%90%88%E9%81%93>
+      o 空手道 <https://ja.wikipedia.org/wiki/%E7%A9%BA%E6%89%8B%E9%81%93>
+      o なぎなた
+        <https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%8E%E3%81%AA%E3%81%9F>
+  * 武士 <https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%A3%AB>
+  * 忍者 <https://ja.wikipedia.org/wiki/%E5%BF%8D%E8%80%85>
+  * 日本刀 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%80>
+  * 文学
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6>
+  * 美意識 <https://ja.wikipedia.org/wiki/%E7%BE%8E%E6%84%8F%E8%AD%98>
+  * 美術
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%BE%8E%E8%A1%93>
+      o 浮世絵 <https://ja.wikipedia.org/wiki/%E6%B5%AE%E4%B8%96%E7%B5%B5>
+      o 春画 <https://ja.wikipedia.org/wiki/%E6%98%A5%E7%94%BB>
+      o 日本庭園
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%BA%AD%E5%9C%92>
+  * 銭湯 <https://ja.wikipedia.org/wiki/%E9%8A%AD%E6%B9%AF>
+  * 旅館 <https://ja.wikipedia.org/wiki/%E6%97%85%E9%A4%A8>
+  * 民宿 <https://ja.wikipedia.org/wiki/%E6%B0%91%E5%AE%BF>
+  * いき <https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%8D>
+  * わび・さび
+    <https://ja.wikipedia.org/wiki/%E3%82%8F%E3%81%B3%E3%83%BB%E3%81%95%E3%81%B3>
+  * 座礼
+    <https://ja.wikipedia.org/w/index.php?title=%E5%BA%A7%E7%A4%BC&action=edit&redlink=1>
+  * 暦 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%9A%A6>
+      o 和暦 <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%9A%A6>
+      o 二十四節気
+        <https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AF%80%E6%B0%97>
+      o 追儺 <https://ja.wikipedia.org/wiki/%E8%BF%BD%E5%84%BA>
+      o 節分 <https://ja.wikipedia.org/wiki/%E7%AF%80%E5%88%86>
+  * 正月 <https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%9C%88>
+  * 衣替え <https://ja.wikipedia.org/wiki/%E8%A1%A3%E6%9B%BF%E3%81%88>
+  * お盆 <https://ja.wikipedia.org/wiki/%E3%81%8A%E7%9B%86>
+  * 中元 <https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%85%83>
+  * 歳暮 <https://ja.wikipedia.org/wiki/%E6%AD%B3%E6%9A%AE>
+  * 忘年会 <https://ja.wikipedia.org/wiki/%E5%BF%98%E5%B9%B4%E4%BC%9A>
+  * 大晦日 <https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%99%A6%E6%97%A5>
+      o 除夜の鐘
+        <https://ja.wikipedia.org/wiki/%E9%99%A4%E5%A4%9C%E3%81%AE%E9%90%98>
+      o 年越し蕎麦
+        <https://ja.wikipedia.org/wiki/%E5%B9%B4%E8%B6%8A%E3%81%97%E8%95%8E%E9%BA%A6>
+  * 地鎮祭 <https://ja.wikipedia.org/wiki/%E5%9C%B0%E9%8E%AE%E7%A5%AD>
+  * 上棟祭 <https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%A3%9F%E5%BC%8F>
+  * 舞妓 <https://ja.wikipedia.org/wiki/%E8%88%9E%E5%A6%93>
+  * 芸妓 <https://ja.wikipedia.org/wiki/%E8%8A%B8%E5%A6%93>
+  * 遊廓 <https://ja.wikipedia.org/wiki/%E9%81%8A%E5%BB%93>
+  * 遊女 <https://ja.wikipedia.org/wiki/%E9%81%8A%E5%A5%B3>
+  * 飯盛女 <https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%9B%9B%E5%A5%B3>
+  * 歌謡曲 <https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%AC%A1%E6%9B%B2>
+  * 映画
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB>
+  * 演芸
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%8A%E7%AC%91%E3%81%84%E5%8F%B2>
+  * 落語 <https://ja.wikipedia.org/wiki/%E8%90%BD%E8%AA%9E>
+  * 囲碁 <https://ja.wikipedia.org/wiki/%E5%9B%B2%E7%A2%81>
+  * 将棋 <https://ja.wikipedia.org/wiki/%E5%B0%86%E6%A3%8B>
+  * オセロ
+    <https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BB%E3%83%AD_(%E9%81%8A%E6%88%AF)>
+  * かるた <https://ja.wikipedia.org/wiki/%E3%81%8B%E3%82%8B%E3%81%9F>
+      o 百人一首
+        <https://ja.wikipedia.org/wiki/%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96>
+      o 花札 <https://ja.wikipedia.org/wiki/%E8%8A%B1%E6%9C%AD>
+  * ゲーム機
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B2%E3%83%BC%E3%83%A0%E6%A9%9F%E6%88%A6%E4%BA%89>
+  * 和楽器 <https://ja.wikipedia.org/wiki/%E5%92%8C%E6%A5%BD%E5%99%A8>
+  * 文部省唱歌
+    <https://ja.wikipedia.org/wiki/%E6%96%87%E9%83%A8%E7%9C%81%E5%94%B1%E6%AD%8C>
+  * J-POP <https://ja.wikipedia.org/wiki/J-POP>
+  * 漫画
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB>
+  * アニメ <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%A1>
+  * コスプレ
+    <https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%83%97%E3%83%AC>
+  * ギャル <https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB>
+  * 可愛い <https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%84%9B%E3%81%84>
+  * もったいない
+    <https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%A3%E3%81%9F%E3%81%84%E3%81%AA%E3%81%84>
+  * をかし <https://ja.wikipedia.org/wiki/%E3%82%92%E3%81%8B%E3%81%97>
+  * もののあはれ
+    <https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%AE%E3%81%AE%E3%81%82%E3%81%AF%E3%82%8C>
+  * ハレとケ
+    <https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AC%E3%81%A8%E3%82%B1>
+  * 大和魂 <https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E9%AD%82>
+  * 幽玄 <https://ja.wikipedia.org/wiki/%E5%B9%BD%E7%8E%84>
+  * 無常 <https://ja.wikipedia.org/wiki/%E7%84%A1%E5%B8%B8>
+  * カラオケ
+    <https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1>
+  * 日流 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%B5%81>
+  * 絵文字文化
+    <https://ja.wikipedia.org/wiki/%E7%B5%B5%E6%96%87%E5%AD%97%E6%96%87%E5%8C%96>
+  * おたく <https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9F%E3%81%8F>
+  * メイド喫茶
+    <https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%89%E5%96%AB%E8%8C%B6>
+
+社会 	
+
+  * 言語
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A8%80%E8%AA%9E>
+
+      o 方言
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%B9%E8%A8%80>
+  * 人口統計
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%BA%E5%8F%A3%E7%B5%B1%E8%A8%88>
+  * 国勢調査
+    <https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%8B%A2%E8%AA%BF%E6%9F%BB_(%E6%97%A5%E6%9C%AC)>
+  * 教育
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%95%99%E8%82%B2>
+  * 国際関係
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E9%9A%9B%E9%96%A2%E4%BF%82>
+  * 高齢化
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%AB%98%E9%BD%A2%E5%8C%96>
+  * 医療
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8C%BB%E7%99%82>
+  * 福祉
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%A6%8F%E7%A5%89>
+  * 年金
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%B9%B4%E9%87%91>
+  * 健康
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%81%A5%E5%BA%B7>
+  * 精神保健
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B2%BE%E7%A5%9E%E4%BF%9D%E5%81%A5>
+  * 自殺
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E6%AE%BA>
+  * 犯罪と治安
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%8A%AF%E7%BD%AA%E3%81%A8%E6%B2%BB%E5%AE%89>
+  * 宗教
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%AE%97%E6%95%99>
+
+      o 神仏習合
+        <https://ja.wikipedia.org/wiki/%E7%A5%9E%E4%BB%8F%E7%BF%92%E5%90%88>
+      o 神道 <https://ja.wikipedia.org/wiki/%E7%A5%9E%E9%81%93>
+      o 仏教
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BB%8F%E6%95%99>
+      o 陰陽道 <https://ja.wikipedia.org/wiki/%E9%99%B0%E9%99%BD%E9%81%93>
+      o 修験道 <https://ja.wikipedia.org/wiki/%E4%BF%AE%E9%A8%93%E9%81%93>
+      o キリスト教
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%E5%8F%B2>
+      o イスラム教
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E7%A4%BE%E4%BC%9A>
+      o 儒教
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%84%92%E6%95%99>
+      o 新宗教 <https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%97%E6%95%99>
+  * スポーツ
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84>
+
+      o 日本代表
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8>
+      o 日本泳法
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B3%B3%E6%B3%95>
+      o 駅伝競争
+        <https://ja.wikipedia.org/wiki/%E9%A7%85%E4%BC%9D%E7%AB%B6%E4%BA%89>
+  * 日本的経営
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%9A%84%E7%B5%8C%E5%96%B6>
+
+      o 日本株式会社
+        <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE>
+  * LGBT
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8BLGBT%E3%81%AE%E6%A8%A9%E5%88%A9>
+  * 一覧記事
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Symbol_list_class.svg>日本一
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%AE%E4%B8%80%E8%A6%A7>
+  * 村社会 <https://ja.wikipedia.org/wiki/%E6%9D%91%E7%A4%BE%E4%BC%9A>
+  * 村八分 <https://ja.wikipedia.org/wiki/%E6%9D%91%E5%85%AB%E5%88%86>
+  * シマ社会
+    <https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9E%E7%A4%BE%E4%BC%9A>
+
+民族 <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA> 	
+
+  * 大和民族
+    <https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%92%8C%E6%B0%91%E6%97%8F>
+  * 琉球民族
+    <https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E6%B0%91%E6%97%8F>
+  * アイヌ <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%8C>
+      o アイヌ文化
+        <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%8C%E6%96%87%E5%8C%96>
+  * 熊襲 <https://ja.wikipedia.org/wiki/%E7%86%8A%E8%A5%B2>
+  * 蝦夷 <https://ja.wikipedia.org/wiki/%E8%9D%A6%E5%A4%B7>
+  * サンカ <https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AB>
+  * 在外日本人
+    <https://ja.wikipedia.org/wiki/%E5%9C%A8%E5%A4%96%E6%97%A5%E6%9C%AC%E4%BA%BA>
+
+      o 中国残留日本人
+        <https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%AE%8B%E7%95%99%E6%97%A5%E6%9C%AC%E4%BA%BA>
+  * 日系人 <https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B3%BB%E4%BA%BA>
+  * 特別永住者
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5%E6%B0%B8%E4%BD%8F%E8%80%85>
+  * 日本の外国人
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%96%E5%9B%BD%E4%BA%BA>
+
+      o 朝鮮人
+        <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA>
+      o 中国人
+        <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA>
+      o ブラジル人
+        <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA>
+      o アメリカ人
+        <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BA%BA>
+      o トルコ人
+        <https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E3%83%88%E3%83%AB%E3%82%B3%E4%BA%BA>
+  * 民族問題
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E6%97%8F%E5%95%8F%E9%A1%8C>
+
+      o 部落問題
+        <https://ja.wikipedia.org/wiki/%E9%83%A8%E8%90%BD%E5%95%8F%E9%A1%8C>
+  * ヘイトスピーチ
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%98%E3%82%A4%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%83%81>
+
+  * ポータル
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Portal.svg>
+    ウィキポータル <https://ja.wikipedia.org/wiki/Portal:%E6%97%A5%E6%9C%AC>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Folder_Hexagonal_Icon.svg>
+    カテゴリ
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%84%E3%83%AA%E3%83%BC/%E6%97%A5%E6%9C%AC>
+  * カテゴリ
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83
+    %AB:Folder_Hexagonal_Icon.svg>一覧記事
+    <https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Symbol_list_class.svg>
+    関連する一覧
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%84%E3%83%AA%E3%83%BC/%E6%97%A5%E6%9C%AC%E9%96%A2%E9%80%A3%E4%B8%80%E8%A6%A7>
+
+「https://ja.wikipedia.org/w/index.php?title=日本語の表記体系&
+oldid=68533074
+<https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E
+%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&oldid=68533074>」から取得
+カテゴリ
+<https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA>:
+
+
+  * 音節文字
+    <https://ja.wikipedia.org/wiki/Category:%E9%9F%B3%E7%AF%80%E6%96%87%E5%AD%97>
+  * 表語文字
+    <https://ja.wikipedia.org/wiki/Category:%E8%A1%A8%E8%AA%9E%E6%96%87%E5%AD%97>
+  * 日本語の表記
+    <https://ja.wikipedia.org/wiki/Category:%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98>
+
+隠しカテゴリ:
+
+  * 参照方法
+    <https://ja.wikipedia.org/wiki/Category:%E5%8F%82%E7%85%A7%E6%96%B9%E6%B3%95>
+  * 出典を必要とする記述のある記事/2012年2月
+    <https://ja.wikipedia.org/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E8%A8%98%E8%BF%B0%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2012%E5%B9%B42%E6%9C%88>
+  * ISBNマジックリンクを使用しているページ
+    <https://ja.wikipedia.org/wiki/Category:ISBN%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8>
+
+
+    案内メニュー
+
+
+個人用ツール
+
+  * ログインしていません
+  * トーク
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8>
+  * 投稿記録
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2>
+  * アカウント作成
+    <https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&returnto=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * ログイン
+    <https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&returnto=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+
+
+名前空間
+
+  * ページ
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * ノート
+    <https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+
+
+      変種
+
+
+表示
+
+  * 閲覧
+    <https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * 編集
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=edit>
+  * 履歴表示
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=history>
+
+
+      その他
+
+
+      検索
+
+<https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>
+
+
+案内
+
+  * メインページ
+    <https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8>
+  * コミュニティ・ポータル
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB>
+  * 最近の出来事
+    <https://ja.wikipedia.org/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B>
+  * 新しいページ
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8>
+  * 最近の更新
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0>
+  * おまかせ表示
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA>
+  * 練習用ページ
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9>
+  * アップロード (ウィキメディア・コモンズ)
+    <https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja>
+
+
+      ヘルプ
+
+  * ヘルプ <https://ja.wikipedia.org/wiki/Help:%E7%9B%AE%E6%AC%A1>
+  * 井戸端
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF>
+  * お知らせ
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B>
+  * バグの報告
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A>
+  * 寄付
+    <https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_ja.wikipedia.org&uselang=ja>
+  * ウィキペディアに関するお問い合わせ
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88>
+
+
+      ツール
+
+  * リンク元
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * 関連ページの更新状況
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * ファイルをアップロード
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89>
+  * 特別ページ
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7>
+  * この版への固定リンク
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&oldid=68533074>
+  * ページ情報
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=info>
+  * ウィキデータ項目
+    <https://www.wikidata.org/wiki/Special:EntityPage/Q190502>
+  * このページを引用
+    <https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&page=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&id=68533074>
+
+
+      印刷/書き出し
+
+  * ブックの新規作成
+    <https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&bookcmd=book_creator&referer=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB>
+  * PDF 形式でダウンロード
+    <https://ja.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5:ElectronPdf&page=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&action=show-download-screen>
+  * 印刷用バージョン
+    <https://ja.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&printable=yes>
+
+
+      他のプロジェクト
+
+  * コモンズ <https://commons.wikimedia.org/wiki/Category:Japanese_writing>
+
+
+      他言語版
+
+  * Afrikaans <https://af.wikipedia.org/wiki/Japannese_skryfstelsel>
+  * العربية
+    <https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D9%83%D8%AA%D8%A7%D8%A8%D8%A9_%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A>
+  * Asturianu <https://ast.wikipedia.org/wiki/Escritura_xaponesa>
+  * Беларуская
+    <https://be.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%96%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%81%D1%86%D1%8C>
+  * Български
+    <https://bg.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE_%D0%BF%D0%B8%D1%81%D0%BC%D0%BE>
+  * বাংলা
+    <https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF_%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%A8_%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BF>
+  * Català <https://ca.wikipedia.org/wiki/Escriptura_japonesa>
+  * Deutsch <https://de.wikipedia.org/wiki/Japanische_Schrift>
+  * Zazaki
+    <https://diq.wikipedia.org/wiki/Sistem%C3%AA_nu%C5%9Ft%C4%B1%C5%9F%C3%AA_Japoni>
+  * Dolnoserbski <https://dsb.wikipedia.org/wiki/Japaniske_pismo>
+  * Ελληνικά
+    <https://el.wikipedia.org/wiki/%CE%99%CE%B1%CF%80%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CF%81%CE%B1%CF%86%CE%AE>
+  * English <https://en.wikipedia.org/wiki/Japanese_writing_system>
+  * Esperanto <https://eo.wikipedia.org/wiki/Japanaj_skribsistemoj>
+  * Español <https://es.wikipedia.org/wiki/Escritura_japonesa>
+  * فارسی
+    <https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D9%86%DA%AF%D8%A7%D8%B1%D8%B4_%D8%B2%D8%A8%D8%A7%D9%86_%DA%98%D8%A7%D9%BE%D9%86%DB%8C>
+  * Suomi
+    <https://fi.wikipedia.org/wiki/Japanin_kirjoitusj%C3%A4rjestelm%C3%A4>
+  * Français <https://fr.wikipedia.org/wiki/%C3%89critures_du_japonais>
+  * Galego <https://gl.wikipedia.org/wiki/Escrita_xaponesa>
+  * हिन्दी
+    <https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%80_%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8_%E0%A4%AA%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%A4%E0%A4%BF>
+  * Հայերեն
+    <https://hy.wikipedia.org/wiki/%D5%83%D5%A1%D5%BA%D5%B8%D5%B6%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A3%D5%AB%D6%80>
+  * Bahasa Indonesia
+    <https://id.wikipedia.org/wiki/Sistem_penulisan_bahasa_Jepang>
+  * Italiano <https://it.wikipedia.org/wiki/Sistema_di_scrittura_giapponese>
+  * ქართული
+    <https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%90%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%93%E1%83%90%E1%83%9B%E1%83%AC%E1%83%94%E1%83%A0%E1%83%9A%E1%83%9D%E1%83%91%E1%83%90>
+  * Қазақша
+    <https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD_%D0%B6%D0%B0%D0%B7%D1%83%D1%8B>
+  * 한국어
+    <https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%B3%B8%EC%96%B4_%ED%91%9C%EA%B8%B0_%EC%B2%B4%EA%B3%84>
+  * Latina <https://la.wikipedia.org/wiki/Scriptura_Iaponica>
+  * Lumbaart <https://lmo.wikipedia.org/wiki/Scrittura_giapponesa>
+  * Lietuvių <https://lt.wikipedia.org/wiki/Japon%C5%B3_ra%C5%A1tas>
+  * Latviešu <https://lv.wikipedia.org/wiki/Jap%C4%81%C5%86u_rakst%C4%ABba>
+  * Nederlands <https://nl.wikipedia.org/wiki/Japans_schrift>
+  * Norsk nynorsk <https://nn.wikipedia.org/wiki/Japansk_skrift>
+  * Norsk <https://no.wikipedia.org/wiki/Japansk_skrift>
+  * ଓଡ଼ିଆ
+    <https://or.wikipedia.org/wiki/%E0%AC%9C%E0%AC%BE%E0%AC%AA%E0%AC%BE%E0%AC%A8%E0%AD%80_%E0%AC%B2%E0%AC%BF%E0%AC%96%E0%AC%A8_%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%A3%E0%AC%BE%E0%AC%B3%E0%AD%80>
+  * Polski <https://pl.wikipedia.org/wiki/Pismo_japo%C5%84skie>
+  * Português <https://pt.wikipedia.org/wiki/Escrita_japonesa>
+  * Română <https://ro.wikipedia.org/wiki/Scrierea_japonez%C4%83>
+  * Русский
+    <https://ru.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C>
+  * Slovenčina <https://sk.wikipedia.org/wiki/Japonsk%C3%A9_p%C3%ADsmo>
+  * Српски / srpski
+    <https://sr.wikipedia.org/wiki/%D0%88%D0%B0%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D0%BF%D0%B8%D1%81%D0%BC%D0%B0>
+  * Basa Sunda <https://su.wikipedia.org/wiki/Sistim_tulis_Jepang>
+  * Svenska <https://sv.wikipedia.org/wiki/Japanska_skriftspr%C3%A5ket>
+  * ไทย
+    <https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99>
+  * Türkçe <https://tr.wikipedia.org/wiki/Japon_yaz%C4%B1_sistemi>
+  * Українська
+    <https://uk.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BF%D0%B8%D1%81%D0%B5%D0%BC%D0%BD%D1%96%D1%81%D1%82%D1%8C>
+  * اردو
+    <https://ur.wikipedia.org/wiki/%D8%AC%D8%A7%D9%BE%D8%A7%D9%86%DB%8C_%D8%B1%D8%B3%D9%85_%D8%A7%D9%84%D8%AE%D8%B7>
+  * 中文
+    <https://zh.wikipedia.org/wiki/%E6%97%A5%E8%AA%9E%E6%9B%B8%E5%AF%AB%E7%B3%BB%E7%B5%B1>
+    他 37
+
+リンクを編集
+<https://www.wikidata.org/wiki/Special:EntityPage/Q190502#sitelinks-wikipedia>
+
+  * 最終更新 2018年5月12日 (土) 06:51 （日時は個人設定
+    <https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA
+    %E8%A8%AD%E5%AE%9A#mw-prefsection-rendering>で未設定ならばUTC
+    <https://ja.wikipedia.org/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C
+    %E6%99%82>）。
+  * テキストはクリエイティブ・コモンズ 表示-継承ライセンス
+    <https://ja.wikipedia.org/wiki
+    /Wikipedia:Text_of_Creative_Commons_Attribution-
+    ShareAlike_3.0_Unported_License>の下で利用可能です。追加の条件が適用
+    される場合があります。詳細は利用規約
+    <https://wikimediafoundation.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7
+    %B4%84>を参照してください。
+
+  * プライバシー・ポリシー
+    <https://meta.wikimedia.org/wiki/Privacy_policy/ja>
+  * ウィキペディアについて
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6>
+  * 免責事項
+    <https://ja.wikipedia.org/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85>
+  * 開発者
+    <https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute>
+  * Cookieに関する声明
+    <https://wikimediafoundation.org/wiki/Cookie_statement>
+  * モバイルビュー
+    <https://ja.m.wikipedia.org/w/index.php?title=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB&mobileaction=toggle_view_mobile>
+  * プレビューを有効にする <#>
+
+  * Wikimedia Foundation <https://wikimediafoundation.org/>	
+  * Powered by MediaWiki <https://www.mediawiki.org/>	
+
+<https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E8%A1%A8%E8%A8%98%E4%BD%93%E7%B3%BB?action=edit>
