@@ -36,6 +36,6 @@ def pocitani_znaku():
                     pocitadlo_katakana +=1
 
     print("znaků hiragany je", pocitadlo_hiragana)
-    print("znaků hiragany je", pocitadlo_katakana)
+    print("znaků katakany je", pocitadlo_katakana)
 
 pocitani_znaku()
